@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/workspace/src/FreeList.cpp
+FreeList.h
+/home/ubuntu/workspace/src/FreeList.h
+
+/home/ubuntu/workspace/src/FreeList.h
+cmath
+-
+Node.h
+/home/ubuntu/workspace/src/Node.h
+MemPool.h
+/home/ubuntu/workspace/src/MemPool.h
+
+/home/ubuntu/workspace/src/MemPool.cpp
+
+/home/ubuntu/workspace/src/MemPool.h
+iostream
+-
+Node.h
+/home/ubuntu/workspace/src/Node.h
+FreeList.h
+/home/ubuntu/workspace/src/FreeList.h
+vlgrid.h
+/home/ubuntu/workspace/src/vlgrid.h
+
+/home/ubuntu/workspace/src/Node.h
+
+/home/ubuntu/workspace/src/vlgrid.h
+iostream
+-
+MemPool.h
+/home/ubuntu/workspace/src/MemPool.h
+
